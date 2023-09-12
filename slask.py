@@ -1,7 +1,7 @@
 import website as ws
 
 
-url = "https://www.blaskelius.se" 
+url = "https://www..se" 
 sida = ws.IndividualPage(url)
 
 
